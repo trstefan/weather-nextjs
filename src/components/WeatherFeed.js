@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styles from "@/styles/WeatherFeed.module.css";
 import { getQueryWeatherData } from "@/lib/apiRequests";
 
@@ -40,7 +40,7 @@ const WeatherFeed = ({ weather }) => {
       {!error && defaultWeather && (
         <div className={styles.weather__card__result}>
           <div className={styles.weather__main}>
-            <h1>{defaultWeather.main.temp.toFixed(1)} &#8451;</h1>
+            <h1>{defaultWeather?.main.temp.toFixed(1)} &#8451;</h1>
             <h2>
               {defaultWeather?.name} - {defaultWeather?.sys.country}
             </h2>
