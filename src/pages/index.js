@@ -43,7 +43,7 @@ const index = function ({ weather }) {
           </div>
           <div>
             <Link href="https://github.com/trstefan">
-              <AiFillGithub className={styles.icon_link} style="all:unset;" />
+              <AiFillGithub className={styles.icon_link} style="all:unset" />
             </Link>
           </div>
         </div>

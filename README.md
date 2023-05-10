@@ -31,7 +31,7 @@ The weather allows users to check the weather in different cities
 ## 📚 Technologies
 
 - ReactJS
-- ReactHooks (useState)
+- ReactHooks
 - NextJS
 
 ## :compass: Roadmap
@@ -39,6 +39,8 @@ The weather allows users to check the weather in different cities
 - [x] Fetch London weather as default city
 - [x] Search other cities weather
 - [x] Dark Mode
+- [ ] Add daily forecast
+- [ ] Add weekly forecast
 
 ## :runner: Run Locally
 
@@ -75,3 +77,4 @@ Start the server
 ## :star: Acknowledgements
 
 - [OpenWeather](https://openweathermap.org//)
+- [Meteocons](https://bas.dev/work/meteocons) - Credits for those amazing SVG icons

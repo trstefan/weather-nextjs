@@ -1,6 +1,7 @@
 .weather__card {
   width: 1000px;
   display: flex;
+
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -26,7 +27,7 @@
 }
 
 .weather__card__result {
-  margin-top: 10rem;
+  margin-top: 5rem;
   padding: 3rem;
   display: flex;
   flex-direction: column;
