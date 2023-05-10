@@ -9,19 +9,19 @@
 ### Home Page
 
 <p>
-  <img alt="screenshot" width="100%" src="./src/screenshots/Homepage.png" />
+  <img alt="screenshot" width="100%" src="./screenshots/Homepage.png" />
 </p>
 
 ### Dark Mode On
 
 <p>
-  <img alt="screenshot" width="100%" src="./src/screenshots/DarkMode.png" />
+  <img alt="screenshot" width="100%" src="./screenshots/DarkMode.png" />
 </p>
 
 ### City not found
 
 <p>
-  <img alt="screenshot" width="100%" src="./src/screenshots/CityNotFound.png" />
+  <img alt="screenshot" width="100%" src="./screenshots/CityNotFound.png" />
 </p>
 
 ## 📝 Project Description
